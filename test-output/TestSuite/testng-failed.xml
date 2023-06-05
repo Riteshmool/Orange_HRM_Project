@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="Browser" value="chrome"/>
+  <listeners>
+    <listener class-name="orange.com.utility.Listener"/>
+    <listener class-name="orange.com.utility.ExtentReporter"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="orange.com.Testlayer.AdminTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyAdminPage"/>
+          <include name="setBrowser"/>
+          <include name="started"/>
+          <include name="stopped"/>
+        </methods>
+      </class> <!-- orange.com.Testlayer.AdminTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
