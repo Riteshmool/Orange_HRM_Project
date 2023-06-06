@@ -87,3 +87,42 @@
 2023-06-05 10:44:16,077 [main] INFO Orange HRM project - click on search successfully
 2023-06-05 10:44:21,090 [main] INFO Orange HRM project - TESTCASE EXECUTION STOPPED
 2023-06-05 10:44:21,090 [main] INFO Orange HRM project - FREAMWORK EXECUTION STOP
+2023-06-06 14:46:34,264 [main] INFO Orange HRM project - FREAMWORK EXECUTION START
+2023-06-06 14:46:34,293 [main] INFO Orange HRM project - TESTCASE EXECUTION STARTED
+2023-06-06 14:46:34,925 [main] INFO Orange HRM project - set username successfully
+2023-06-06 14:46:40,044 [main] INFO Orange HRM project - set password successfully
+2023-06-06 14:46:48,141 [main] INFO Orange HRM project - click login button successfully
+2023-06-06 14:46:58,215 [main] INFO Orange HRM project - TESTCASE EXECUTION FAILED
+2023-06-06 14:46:58,430 [main] INFO Orange HRM project - SCREENSHOT TAKEN
+2023-06-06 14:46:58,430 [main] INFO Orange HRM project - FREAMWORK EXECUTION STOP
+2023-06-06 14:47:04,708 [main] INFO Orange HRM project - FREAMWORK EXECUTION START
+2023-06-06 14:47:04,720 [main] INFO Orange HRM project - TESTCASE EXECUTION STARTED
+2023-06-06 14:47:04,777 [main] INFO Orange HRM project - TESTCASE EXECUTION FAILED
+2023-06-06 14:47:04,793 [main] INFO Orange HRM project - TESTCASE EXECUTION FAILED
+2023-06-06 14:49:57,739 [main] INFO Orange HRM project - FREAMWORK EXECUTION START
+2023-06-06 14:49:57,770 [main] INFO Orange HRM project - TESTCASE EXECUTION STARTED
+2023-06-06 14:49:58,594 [main] INFO Orange HRM project - set username successfully
+2023-06-06 14:50:03,714 [main] INFO Orange HRM project - set password successfully
+2023-06-06 14:50:11,408 [main] INFO Orange HRM project - click login button successfully
+2023-06-06 14:50:16,479 [main] INFO Orange HRM project - login successfully
+2023-06-06 14:50:21,493 [main] INFO Orange HRM project - TESTCASE EXECUTION STOPPED
+2023-06-06 14:50:21,506 [main] INFO Orange HRM project - FREAMWORK EXECUTION STOP
+2023-06-06 14:50:38,801 [main] INFO Orange HRM project - FREAMWORK EXECUTION START
+2023-06-06 14:50:38,806 [main] INFO Orange HRM project - TESTCASE EXECUTION STARTED
+2023-06-06 14:50:39,755 [main] INFO Orange HRM project - set username successfully
+2023-06-06 14:50:42,871 [main] INFO Orange HRM project - set password successfully
+2023-06-06 14:50:45,951 [main] INFO Orange HRM project - login successfully
+2023-06-06 14:50:51,844 [main] INFO Orange HRM project - click on admin successfully
+2023-06-06 14:50:54,981 [main] INFO Orange HRM project - set admin username successfully
+2023-06-06 14:50:58,078 [main] INFO Orange HRM project - click on user role successfully
+2023-06-06 14:51:08,218 [main] INFO Orange HRM project - select admin successfully
+2023-06-06 14:51:14,403 [main] INFO Orange HRM project - set employeename successfully
+2023-06-06 14:51:19,531 [main] INFO Orange HRM project - click on status successfully
+2023-06-06 14:51:24,611 [main] INFO Orange HRM project - select status  successfully
+2023-06-06 14:51:29,758 [main] INFO Orange HRM project - click on search successfully
+2023-06-06 14:51:34,772 [main] INFO Orange HRM project - TESTCASE EXECUTION STOPPED
+2023-06-06 14:51:34,775 [main] INFO Orange HRM project - FREAMWORK EXECUTION STOP
+2023-06-08 12:58:35,754 [main] INFO Orange HRM project - FREAMWORK EXECUTION START
+2023-06-08 12:58:35,772 [main] INFO Orange HRM project - TESTCASE EXECUTION STARTED
+2023-06-08 12:58:35,804 [main] INFO Orange HRM project - TESTCASE EXECUTION FAILED
+2023-06-08 12:58:35,820 [main] INFO Orange HRM project - TESTCASE EXECUTION FAILED
