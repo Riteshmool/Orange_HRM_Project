@@ -11,7 +11,9 @@
 
 	<test thread-count="5" name="Test">
 		<classes>
+			<class name="orange.com.Testlayer.LoginTest" />
 			<class name="orange.com.Testlayer.AdminTest" />
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- TestSuite -->

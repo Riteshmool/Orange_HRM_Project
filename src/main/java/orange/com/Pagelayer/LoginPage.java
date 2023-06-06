@@ -32,4 +32,12 @@ public class LoginPage extends Testbase {
 	public void clickLogin() {
 		loginbt.click();
 	}
+	
+	@FindBy(xpath="//h6[text()='Dashboard']")
+	private WebElement loginstatus;
+	public String verifyLoginStatus() {
+		String st=loginstatus.getText();
+		return st;
+		
+	}
 }
